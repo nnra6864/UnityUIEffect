@@ -1,3 +1,10 @@
+## [5.11.6](https://github.com/mob-sakai/UIEffect/compare/5.11.5...5.11.6) (2026-08-17)
+
+
+### Bug Fixes
+
+* refresh material when changing shadow mode ([8bb782c](https://github.com/mob-sakai/UIEffect/commit/8bb782c90afb42d6569d8dfcfe022b007171f97e))
+
 ## [5.11.5](https://github.com/mob-sakai/UIEffect/compare/5.11.4...5.11.5) (2026-07-23)
 
 
